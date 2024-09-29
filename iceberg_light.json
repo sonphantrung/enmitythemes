@@ -10,7 +10,10 @@
   "semanticColors":{
     "BACKGROUND_PRIMARY": [
       "#e8e9ec",
-    ]
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#dcdfe7",
+    ]  
   },
   "plus":{
     "version":"0",
