@@ -1,0 +1,19 @@
+{
+  "name": "Iceberg (Light)",
+  "description": "Bluish color theme",
+  "authors":[
+    {
+      "name": "Ouch!"
+      "id": "895958242105122826"
+    }
+  ],
+  "semanticColors":{
+    "BACKGROUND_PRIMARY": [
+      "#e8e9ec",
+    ]
+  },
+  "plus":{
+    "version":"0",
+    "mentionLineColor":"#f3bae540"
+  }
+}
