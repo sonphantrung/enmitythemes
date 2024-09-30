@@ -1,9 +1,9 @@
 {
-  "name": "Iceberg (Light)",
+  "name": "Iceberg Light",
   "description": "Bluish color theme",
   "authors":[
     {
-      "name": "Ouch!",
+      "name": "Ouch",
       "id": "895958242105122826"
     }
   ],
@@ -23,6 +23,6 @@
   },
   "plus":{
     "version":"0",
-    "mentionLineColor":"#f3bae540"
+    "mentionLineColor":"#2e3440"
   }
 }
