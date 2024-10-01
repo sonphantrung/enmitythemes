@@ -17,6 +17,9 @@
     "BACKGROUND_SECONDARY_ALT": [
       "#dcdfe7"
     ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#2d539e"
+    ],
     "TEXT_DANGER": [
       "#e27878"
     ]
